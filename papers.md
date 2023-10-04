@@ -17,11 +17,7 @@
 - Daniel L. Sanchez, James H. Nelson, Josiah Johnston, Ana Mileva and Daniel M. Kammen. ["Biomass enables the transition to a carbon-negative power system across western North America."](https://doi.org/10.1038/nclimate2488) _Nature Climate Change_ 5, no. 3 (2015): 230-234.
 - Daniel L. Sanchez. ["Deployment, Design, and Commercialization of Carbon-­Negative Energy Systems."](https://escholarship.org/uc/item/0rs8n38z) Ph.D. dissertation, University of California, Berkeley, 2015.
 - Ana Mileva, Josiah Johnston, James H. Nelson and Daniel M. Kammen. ["Power system balancing for deep decarbonization of the electricity sector."](https://doi.org/10.1016/j.apenergy.2015.10.180) _Applied Energy_ 162 (2016): 1001-1009.
-
-- Peter J. Marcotullio, L. Bruhwiler, S. Davis, J. Engel-Cox, J. Field, C. Gately, K. R. Gurney, D. M. Kammen, E. McGlynn, J. McMahon, W. R. Morrow, III, I. B. Ocko, and R. Torrie. ["Chapter 3: Energy systems."](https://doi.org/10.7930/SOCCR2.2018.Ch3) In _Second State of the Carbon Cycle Report (SOCCR2): A Sustained Assessment Report_. N. Cavallaro, G. Shrestha, R. Birdsey, M. A. Mayes, R. G. Najjar, S. C. Reed, P. Romero-Lankao, and Z. Zhu (eds.). U.S. Global Change Research Program, pp. 110-188.
-
-
-- Patricia Hidalgo-Gonzalez. ["Learning and Control Systems for the Integration of Renewable Energy into Grids of the Future."](https://www.proquest.com/openview/52ddd01f70958eeaaf63b3f9730688af/) (2020).
+- Patricia Hidalgo-Gonzalez. ["Learning and Control Systems for the Integration of Renewable Energy into Grids of the Future."](https://www.proquest.com/openview/52ddd01f70958eeaaf63b3f9730688af/) Ph.D. dissertation, University of California, Berkeley (2020).
 - Julia Szinai, David N. Yates, Patricia Hidalgo-Gonzalez, Daniel M. Kammen, Ranjit Deshmukh, and Andrew D. Jones. ["Evaluating Climate Change Adaptation Strategies for Electricity and Water Systems in the Western US with a Cross-Sectoral Energy-Water Nexus Modeling Approach."](https://ui.adsabs.harvard.edu/abs/2020AGUFMGC064..07S/abstract) In _AGU Fall Meeting Abstracts_, vol. 2020: (2020) pp. GC064-07.
 - Julia Katalin Szinai. ["Crossed wires: Cross-sectoral dynamics of planning climate-resilient electricity systems."](https://www.proquest.com/openview/bad48e313f3c68e1f82b354616187f3d) University of California, Berkeley, 2021.
 - Patricia L. Hidalgo-Gonzalez, Josiah Johnston and Daniel M. Kammen. ["Cost and impact of weak medium term policies in the electricity system in Western North America."](https://doi.org/10.1016/j.tej.2021.106925) _The Electricity Journal_ 34, no. 3 (2021): 106925.
@@ -103,6 +99,7 @@
 - Chao Zhang, Joonseok Yang, Johannes Urpelainen, Puneet Chitkara, Jiayi Zhang and Jiao Wang. ["Thermoelectric Power Generation and Water Stress in India: A Spatial and Temporal Analysis."](https://doi.org/10.1021/acs.est.0c08724) _Environmental Science & Technology_ 55, no. 8 (2021): 4314-4323.
 
 #### Kenya
+- Daniel Kammen and Brooke Maushund. ["Renewable Electrification and Integration Implementation Strategies."](https://rael.berkeley.edu/wp-content/uploads/2017/03/ARF-2017-OUTCOMES.pdf) in The Path 2021: Outcomes of the Africa Renewable Energy Forum (2016).
 - Juan-Pablo Carvallo, Brittany J. Shaw, Nkiruka I. Avila and Daniel M. Kammen. ["Sustainable Low-Carbon Expansion for the Power Sector of an Emerging Economy: The Case of Kenya."](https://doi.org/10.1021/acs.est.7b00345) _Environmental Science & Technology_ 51 no. 17 (2017): 10232–10242.
 - Juan Pablo Carvallo. ["Strategic Planning for Universal Electricity Access."](https://escholarship.org/uc/item/2qh8d0ng) Ph.D. dissertation, University of California, Berkeley (2019).
 - Juan-Pablo Carvallo, Jay Taneja, Duncan Callaway and Daniel M. Kammen. ["Distributed Resources Shift Paradigms on Power System Design, Planning, and Operation: An Application of the GAP Model."](https://doi.org/10.1109/JPROC.2019.2925759) _Proceedings of the IEEE_ 107, no. 9 (2019): 1906-1922.
