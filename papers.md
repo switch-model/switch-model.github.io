@@ -6,6 +6,9 @@
 
 ##### Full U.S.
 - Thuy Doan, Matthias Fripp and Michael Roberts. ["Are We Building Too Much Natural Gas Pipeline? A comparison of actual US expansion of pipeline to an optimized model of the interstate network."](https://thuyttdoan.com/publication/wip_gas_pipeline/) (2022).
+- Rangrang Zheng. ["Applying Empirical Techniques From Economics to the Study of Individual and Social Welfare."](https://www.proquest.com/docview/2869405926/abstract/CEDA2ADD5F4346PQ/1) Ph.D. dissertation (2023).
+- Rangrang Zheng, Greg Schivley, Patricia Hidalgo-Gonzalez, Matthias Fripp and Michael Roberts. ["Optimal Transmission Expansion Modestly Reduces Decarbonization Costs of U.S. Electricity."](https://doi.org/10.2139/ssrn.5171316) (2025).
+- Greg Schivley, Aurora Barone, Michael Blackhurst, Patricia Hidalgo-Gonzalez, Jesse Jenkins, Olеg Lugovoy, Qian Luo, Michael Roberts, Rangrang Zheng, Cameron Wade and Matthias Fripp. ["Process and Policy Insights from an Intercomparison of Open Electricity System Capacity Expansion Models."](https://doi.org/10.2139/ssrn.5205762) (2025).
 
 ##### Western North America
 - James Nelson, Josiah Johnston, Ana Mileva, Matthias Fripp, Ian Hoffman, Autumn Petros-Good, Christian Blanco and Daniel M. Kammen. ["High-resolution modeling of the western North American power system demonstrates low-cost and low-carbon futures."](https://doi.org/10.1016/j.enpol.2012.01.031) _Energy Policy_ 43 (2012): 436-447.
@@ -24,12 +27,18 @@
 - Rodrigo Marti Henriquez Auba. ["Challenges on Decarbonization of Electric Power Systems."](https://digitalassets.lib.berkeley.edu/techreports/ucb/incoming/EECS-2022-264.pdf) (2022).
 - P.A. Sánchez-Pérez, Martin Staadecker, Julia Szinai, Sarah Kurtz and Patricia Hidalgo-Gonzalez. ["Effect of modeled time horizon on quantifying the need for long-duration storage."](https://doi.org/10.1016/j.apenergy.2022.119022) _Applied Energy_ 317 (2022): 119022.
 - Natalia Gonzalez, Paul Serna-Torre, Pedro Sanchez-Perez, Ryan Davidson, Bryan Murray, Martin Staadecker, Julia Szinai, Rachel Wei, Daniel Kammen, Deborah Sunter and Patricia Hidalgo-Gonzalez. ["Offshore Wind and Wave Energy Can Reduce Total Installed Capacity Required in Zero Emissions Grids."](https://doi.org/10.21203/rs.3.rs-3353442/v1) (2023).
-
+- D. Yates, J. K. Szinai and A. D. Jones. ["Modeling the Water Systems of the Western US to Support Climate-Resilient Electricity System Planning."](https://doi.org/10.1029/2022EF003220) _Earth's Future_ 12, no. 1 (2023).
+- Julia K. Szinai, David Yates, Pedro A. Sánchez-Pérez, Martin Staadecker, Daniel M. Kammen, Andrew D. Jones and Patricia Hidalgo-Gonzalez. ["Climate Change and Its Influence on Water Systems Increases the Cost of Electricity System Decarbonization."](https://doi.org/10.1038/s41467-024-54162-9) _Nature Communications_ 15, no. 1 (2024).
+- Martin Staadecker, Julia Szinai, Pedro A. Sánchez-Pérez, Sarah Kurtz and Patricia Hidalgo-Gonzalez. ["The Value of Long-Duration Energy Storage under Various Grid Conditions in a Zero-Emissions Future."](https://doi.org/10.1038/s41467-024-53274-6) _Nature Communications_ 15, no. 1 (2024).
+- P. A. Sánchez-Pérez. ["Improving Modeling Tools for Capacity Expansion Modeling for a Decarbonized Grid."](https://www.proquest.com/docview/2892851834/abstract/C477EFC28FB844B8PQ/1) Ph.D. dissertation (2023).
+- Natalia Gonzalez, Paul Serna-Torre, Pedro A. Sánchez-Pérez, Ryan Davidson, Bryan Murray, Martin Staadecker, Julia Szinai, Rachel Wei, Daniel M. Kammen, Deborah A. Sunter and Patricia Hidalgo-Gonzalez. ["Offshore Wind and Wave Energy Can Reduce Total Installed Capacity Required in Zero-Emissions Grids."](https://doi.org/10.1038/s41467-024-50040-6) _Nature Communications_ 15, no. 1 (2024).
 
 ##### Texas
-- Joshua D. Rhodes, Thomas Deetjen and Caitlin Smith. ["Impacts of Large, Flexible Data Center Operations on the Future of ERCOT."](https://www.ideasmiths.net/wp-content/uploads/2022/02/LANCIUM_IS_ERCOT_flexDC_FINAL_2021.pdf) Lancium White Paper. (2021).
-- Joshua D. Rhodes and Thomas Deetjen. ["Least-cost optimal expansion of the ERCOT grid."](https://www.ideasmiths.net/wp-content/uploads/2021/07/APA_IS_ERCOT_grid_FINAL.pdf) IdeaSmiths LLC. (2021).
-- Sarah Emilee Dodamead.["Exploring the Trade-offs Between Battery Storage and Transmission for the Electrical Grid."](https://repositories.lib.utexas.edu/handle/2152/118332) PhD diss., 2022.
+- Joshua D. Rhodes, Thomas Deetjen and Caitlin Smith. ["Impacts of Large, Flexible Data Center Operations on the Future of ERCOT."](https://www.ideasmiths.net/wp-content/uploads/2022/02/LANCIUM_IS_ERCOT_flexDC_FINAL_2021.pdf) Lancium White Paper (2021).
+- Joshua D. Rhodes and Thomas Deetjen. ["Least-cost optimal expansion of the ERCOT grid."](https://www.ideasmiths.net/wp-content/uploads/2021/07/APA_IS_ERCOT_grid_FINAL.pdf) IdeaSmiths LLC (2021).
+- Sarah Emilee Dodamead.["Exploring the Trade-offs Between Battery Storage and Transmission for the Electrical Grid."](https://repositories.lib.utexas.edu/handle/2152/118332) PhD thesis (2022).
+- Sara Murillo, Jerry Potts and Sergio Castellanos. ["Modeling the Impact of Electric Vehicle Adoption and Charging Strategies in ERCOT."](https://doi.org/10.1088/2753-3751/ad96bc) _Environmental Research: Energy_ 1, no. 4 (2024): 045016.
+- Chen-Kai Fan, Jerry Potts and Sergio Castellanos. ["Offshore Wind Manufacturing, Deployment, and the Just Transition in Texas."](https://doi.org/10.1016/j.rser.2024.115292) _Renewable and Sustainable Energy Reviews_ 211 (2025): 115292.
 
 ##### California
 - Matthias Fripp ["Optimal investment in wind and solar power in California."](https://search.proquest.com/openview/615beec4b81f803b0332ac6182b0c5a3/1) Ph.D. dissertation, University of California, Berkeley (2008).
@@ -49,6 +58,9 @@
 - Matthias Fripp. ["Intercomparison between Switch 2.0 and GE MAPS models for simulation of high-renewable power systems in Hawaii."](https://doi.org/10.1186/s13705-018-0184-x) (2018).
 - John Larsen, Shashank Mohan, Whitney Herndon, Peter Marsters, and Hannah Pitt. ["Transcending Oil: Hawaii’s Path to a Clean Energy Economy."](https://rhg.com/wp-content/uploads/2018/04/rhodium_transcendingoil_final_report_4-18-2018-final.pdf) Rhodium Group (2018).
 
+##### Other parts of Canada and U.S.
+- Hossam A. Gabbar and Elena Villalobos Herra. ["Hydrogen Energy Planning with Water Considerations: A SWITCH Model Enhancement for Sustainable Deployment."](https://doi.org/10.1016/j.ijhydene.2024.03.374) _International Journal of Hydrogen Energy_ 66 (2024): 258-267.
+
 #### Latin America
 
 ##### Chile
@@ -60,13 +72,18 @@
 - Felipe Verástegui, Álvaro Lorca, Matias Negrete-Pincetic and Daniel Olivares. ["Firewood heat electrification impacts in the Chilean power system."](https://doi.org/10.1016/j.enpol.2020.111702) _Energy Policy_ 144 (2020): 111702.
 - Felipe Verástegui, Álvaro Lorca, Daniel Olivares and Matias Negrete-Pincetic. ["Optimization-based analysis of decarbonization pathways and flexibility requirements in highly renewable power systems."](https://doi.org/10.1016/j.energy.2021.121242) _Energy_ 234 (2021): 121242.
 - José Miguel Valdes, Álvaro Lorca, Cristian Salas, Francisco Pinto, Rocío Herrera, Alejandro Bañados, Raúl Urtubia, Patricio Castillo, Lucas Maulén and Diego González. ["Greenhouse Gas Mitigation Beyond the Nationally Determined Contributions in Chile: An Assessment of Alternatives."](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4481537) _SSRN Electronic Journal_ (2023).
+- Manuel Portilla-Paveri, Denise Cariaga, Matías Negrete-Pincetic, Álvaro Lorca and Miguel F. Anjos. ["A Long-Term Generation and Transmission Expansion Planning Model Considering Desalination Flexibility and Coordination: A Chilean Case Study."](https://doi.org/10.1016/j.apenergy.2024.123578) _Applied Energy_ 371 (2024): 123578.
+- Patricio Castillo, Matias Aguad, Álvaro Lorca, Samuel Cordova and Matias Negrete-Pincetic. ["Coal Phase-Out and Carbon Tax Analysis with Long-Term Planning Models: A Case Study for the Chilean Electric Power System."](https://doi.org/10.3390/en17215263) _Energies_ 17, no. 21 (2024): 5263.
+- Denise Carolina Cariaga Sandoval. ["Planning and Operations of Water and Energy Networks."](https://doi.org/10.7488/ERA/5668) Ph.D. dissertation (2025).
 
 ##### Mexico
 - Sergio Castellanos, Pedro Sanchez-Perez, Aldo Pasos-Trejo, Mateo Torres, Josiah Johnston, Apollo Jain, Alejandra Monroy, Florin James-Langer, Diego Ponce de Leon, Oliver Probst and Daniel M. Kammen. ["Modeling high-penetration of clean energy in the electrical grid: A case for Mexico."](https://doi.org/10.1109/PVSC.2018.8548261) _2018 IEEE 7th World Conference on Photovoltaic Energy Conversion (WCPEC) (A Joint Conference of 45th IEEE PVSC, 28th PVSEC & 34th EU PVSEC)_ (2018).
 - Sergio Castellanos, Apollo Jain, James Adam Mahady and Daniel M. Kammen. ["Vehicle Electrification in Mexico: Evaluating Long-Term Grid Capacity Planning and Interplay with Renewable Deployment."](https://ui.adsabs.harvard.edu/abs/2019AGUFMGC31O1295C/abstract) In AGU Fall Meeting Abstracts, vol. 2019, pp. GC31O-1295. 2019.
 
-##### Nicaragua
+##### Other parts of Latin America
 - Diego Ponce de Leon Barido, Josiah Johnston, Maria V Moncada, Duncan Callaway and Daniel M Kammen. ["Evidence and future scenarios of a low-carbon energy transition in Central America: a case study in Nicaragua."](http://dx.doi.org/10.1088/1748-9326/10/10/104002) _Environmental Research Letters_ 10, no. 10 (2015): 104002.
+- Ricardo Pineda-Guzman, Paola Sofia Acevedo Alvarado, Pedro A. Sánchez-Pérez and Sergio Castellanos. ["Pathways to Decarbonize Honduras’ Power Sector."](https://doi.org/10.1021/acs.est.4c13433) _Environmental Science & Technology_ 59, no. 9 (2025): 4409-4417.
+
 
 #### China
 - Gang He, Anne-Perrine Avrin, James Nelson, Jianwei Tian, Josiah Johnston, Ana Mileva and Daniel Kammen. ["China’s Ability to Achieve National Energy Objectives Depends on Coordination of Infrastructure and Policy Initiatives."](https://www.iaee.org/proceedings/article/8118) 37th IAEE International Conference on Energy & the Economy (2014).
@@ -85,10 +102,15 @@
 - Xiaoli Zhang, Xueqin Cui, Bo Li, Patricia Hidalgo-Gonzalez, Daniel M Kammen, Ji Zou and Ke Wang. ["Immediate actions on coal phaseout enable a just low-carbon transition in China’s power sector."](https://doi.org/10.1016/j.apenergy.2021.118401) _Applied Energy_ 308 (2022): 118401.
 - Jiang Lin, Nikit Abhyankar, Gang He, Xu Liu and Shengfei Yin. ["Large balancing areas and dispersed renewable investment enhances grid flexibility in a renewable-dominant power system in China."](https://doi.org/10.1016/j.isci.2022.103749) _iScience_ 25, no. 2 (2022): 103749.
 - Liqun Peng, Denise L. Mauzerall, Yaofeng D. Zhong and Gang He. ["Heterogeneous effects of battery storage deployment strategies on decarbonization of provincial power systems in China."](https://doi.org/10.1038/s41467-023-40337-3) _Nature Communications_ 14, no. 1 (2023).
+- Liqun Peng. ["Evaluating Low-Carbon Technology Deployment Policies to Accelerate the Decarbonization of China’s Energy System."](https://www.proquest.com/docview/2774880740/abstract/B438D5E2A5E24010PQ/1) Ph.D. dissertation (2023).
+- Liqun Peng, Denise L. Mauzerall, Yaofeng D. Zhong and Gang He. ["Heterogeneous Effects of Battery Storage Deployment Strategies on Decarbonization of Provincial Power Systems in China."](https://doi.org/10.1038/s41467-023-40337-3) _Nature Communications_ 14, no. 1 (2023).
+- Liqun Peng, Yang Guo, Shangwei Liu, Gang He and Denise L. Mauzerall. ["Subsidizing Grid-Based Electrolytic Hydrogen Will Increase Greenhouse Gas Emissions in Coal Dominated Power Systems."](https://doi.org/10.1021/acs.est.3c03045) _Environmental Science & Technology_ 58, no. 12 (2024): 5187-5195.
 
 #### Japan
 - Tatsuya Wakeyama. ["Impact of Increasing Share of Renewables on the Japanese Electricity System - Model Based Analysis."](http://sw.pg2.at/abstracts/a0106.html) Energynautics GmbH, Brussels (2015).
 - Rena Kuwahata, Peter Merk, Tatsuya Wakeyama, Dimitri Pescia, Steffen Rabe and Shota Ichimura. ["Renewables integration grid study for the 2030 Japanese power system."](https://doi.org/10.1049/iet-rpg.2019.0711) _IET Renewable Power Generation_ 14, no. 8 (2020): 1249-1258.
+- Kenji Shiraishi, Won Young Park and Daniel M Kammen. ["The Role of Hydrogen as Long-Duration Energy Storage and as an International Energy Carrier for Electricity Sector Decarbonization."](https://doi.org/10.1088/1748-9326/ad5856) _Environmental Research Letters_ 19, no. 8 (2024): 084011.
+- Kenji Shiraishi, Umed Paliwal, Nikit Abhyankar, Daniel M Kammen, Amol Phadke and Won Young Park. ["Exploring Offshore Wind’s Potential to Enhance Energy Security in Nations with Limited Land and Fuel Resources."](https://doi.org/10.1088/1748-9326/adaed5) _Environmental Research Letters_ 20, no. 3 (2025): 034006.
 
 #### Laos
 - Nkiruka Avila, Noah Kittner, Rebekah Shirley, Michael B. Dwyer, David Roberts, Jalel Sager and Daniel M. Kammen. ["Beyond the Battery: Power Expansion Alternatives for Economic Resilience and Diversity in Laos."](https://orbi.uliege.be/bitstream/2268/255697/1/2020%20Resource%20Governance_LMPPI_Tinh_Minh%20%281%29.pdf) _Resource Governance, Agriculture and Sustainable Livelihoods in the Lower Mekong Basin_ (2019): 27-65.

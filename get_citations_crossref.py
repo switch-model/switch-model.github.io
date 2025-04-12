@@ -1,3 +1,37 @@
+"""
+This script does the following:
+
+1. replace any partial bibliography entries of the form ["title"](url) in
+   papers.md with more complete citations using info from crossref.org.
+2. write papers.html from scratch based on markdown.md
+
+To revise a citation, can edit papers.md and then rerun this script.
+
+If you have previously collected the papers in Zotero, you can right-click on
+the new ones, export as a bibliography, then use ChatGPT with this prompt to
+convert them into the required format:
+
+Can you give me the titles and URLs of some papers in the following format?
+```
+["title1"](url)
+["title2"](url)
+```
+
+These are the papers:
+```
+<insert bibliography entries here, including titles and URLs>
+```
+
+One good technique is to put all the new citations at the top of the document in
+abbreviated form (as above), then run the script to convert them to full
+bibliography entries, then distribute them to the right rows of the right
+sections.
+
+Before running, you should run something like
+conda create -n bibliography requests fuzzywuzzy markdown
+conda activate bibliography
+"""
+
 import requests
 import json
 from fuzzywuzzy import fuzz
@@ -14,21 +48,44 @@ def get_citation(title, url):
 
     # get more metadata if possible
     api_url = f"https://api.crossref.org/works"
-    params = {"query.bibliographic": title, "rows": 1, "mailto": "mfripp@edf.org"}
+    params = {
+        "query.bibliographic": title,
+        # get several rows and pick our favorite (if we just use 1, sometimes
+        # it's an older preprint instead of a journal article)
+        "rows": 4,
+        "mailto": "matthias@energyinnovation.org",
+    }
     response = requests.get(api_url, params=params)
 
     if response.status_code == 200:
         data = response.json()
         if data["message"]["items"]:
-            paper = data["message"]["items"][0]
+            # prefer the newest version with a good enough match
+            items = data["message"]["items"]
+            for item in items:
+                item["cr_title"] = item.get("title", [""])[0]
+                item["match"] = fuzz.token_set_ratio(title, item["cr_title"])
+                item["issue_date"] = item.get("issued", {}).get("date-parts", [[None]])[
+                    0
+                ]
+            paper = max(
+                items,
+                key=lambda p: (
+                    99 if p["match"] >= 99 else p["match"],
+                    [0, 0, 0] if p["issue_date"] == [None] else p["issue_date"],
+                ),
+            )
+
             cr_title = paper.get("title", [""])[0]
-            match = fuzz.token_set_ratio(title, cr_title)
+            match = paper["match"]
             if match < 90:
                 # bail out if the title doesn't match the first paper
                 print(f'   Not matched in crossref. Closest is "{cr_title}".')
                 return citation
             if match < 99:
-                print(f'   WARNING: weak title match to "{cr_title}".')
+                print(f"   WARNING: weak title match:")
+                print(f'        "{title}"')
+                print(f'    vs. "{cr_title}"')
 
             authors = paper.get("author", [])
             authors = [
@@ -41,11 +98,11 @@ def get_citation(title, url):
                 authors[-1] = "and " + authors[-1]
             author_names = " ".join(authors)
             journal = paper.get("container-title", [""])[0]
-            date_parts = paper.get("issued", {}).get("date-parts", [[]])[0]
-            publication_year = str(date_parts[0]) if date_parts else "undated"
-            # publication_date = "-".join(str(part).zfill(2) for part in date_parts)
-            # if not publication_date:
-            #     publication_date = "undated"
+            publication_year = (
+                "undated"
+                if paper["issue_date"] == [None]
+                else str(paper["issue_date"][0])
+            )
             volume = paper.get("volume", "")
             issue = paper.get("issue", "")
             page = paper.get("page", "")
@@ -64,9 +121,18 @@ def get_citation(title, url):
 
             citation += f" ({publication_year})"
             if page:
-                citation += f": {page}."
-            else:
-                citation += "."
+                citation += f": {page}"
+
+            citation += "."
+
+            # Add a bullet at the start
+            citation = "- " + citation
+
+            # if (
+            #     title
+            #     == "Climate Change and Its Influence on Water Systems Increases the Cost of Electricity System Decarbonization"
+            # ):
+            #     breakpoint()
 
     return citation
 
@@ -77,6 +143,7 @@ with open("papers.md") as f:
 
 # Replace plain [article](url) lines with full citations
 for i, line in enumerate(lines):
+    line = line.strip()
     if (
         line.startswith('"[')
         and line.endswith(')"')
@@ -100,6 +167,8 @@ for i, line in enumerate(lines):
 
         # Retrieve metadata using CrossRef API
         lines[i] = get_citation(title, url)
+    # else:
+    #     print(f"Skipping `{line}`")
 
 papers_markdown = "\n".join(lines)
 
